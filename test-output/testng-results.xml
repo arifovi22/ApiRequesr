@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2934" started-at="2020-01-28T20:22:27 EST" finished-at="2020-01-28T20:22:30 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2934" started-at="2020-01-28T20:22:27 EST" finished-at="2020-01-28T20:22:30 EST">
+      <class name="com.Requests.test.PostApiTest">
+        <test-method status="PASS" signature="baseConnection()[pri:0, instance:com.Requests.test.PostApiTest@6c3708b3]" name="baseConnection" is-config="true" duration-ms="1889" started-at="2020-01-28T20:22:27 EST" finished-at="2020-01-28T20:22:29 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseConnection -->
+        <test-method status="PASS" signature="postAPITest()[pri:0, instance:com.Requests.test.PostApiTest@6c3708b3]" name="postAPITest" duration-ms="993" started-at="2020-01-28T20:22:29 EST" finished-at="2020-01-28T20:22:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAPITest -->
+      </class> <!-- com.Requests.test.PostApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
